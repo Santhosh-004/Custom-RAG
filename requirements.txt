@@ -1,0 +1,7 @@
+openai
+sentence-transformers
+chromadb
+requests
+tinydb
+python-dotenv
+whisper
